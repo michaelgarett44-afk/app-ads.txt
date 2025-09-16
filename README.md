@@ -1,4 +1,4 @@
-# rabanito
+# app-ads.txt
 rabanito game
 # app-ads.txt para tu juego
 # Google AdMob (Directo)
